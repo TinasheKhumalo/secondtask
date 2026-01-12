@@ -1,4 +1,4 @@
-I am GPT-5.
+
 
 # First REST API with Spring Boot
 
