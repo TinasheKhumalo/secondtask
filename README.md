@@ -108,13 +108,15 @@ http://localhost:8080/h2-console
 - Password: (leave blank)
 
 ## 📸 Screenshots
-(Replace the links below with your image paths in the repo)
-- PUT request screenshot: ![put](path/to/put.png)
-- POST request screenshot: ![post](path/to/post.png)
-- GET all screenshot: ![get-all](path/to/get-all.png)
-- GET by id screenshot: ![get](path/to/get.png)
-- DELETE screenshot: ![delete](path/to/delete.png)
-- H2 database screenshot: ![database](path/to/database.png)
+<img width="1908" height="1068" alt="database" src="https://github.com/user-attachments/assets/5038d058-fc53-4813-96fe-ede0c56739e7" />
+
+<img width="1919" height="850" alt="delete" src="https://github.com/user-attachments/assets/bb4ba744-fe2b-49cf-9683-26a23fd17077" />
+
+
+<img width="1894" height="1062" alt="get-all" src="https://github.com/user-attachments/assets/8285c0ac-297b-4f67-b43e-3669cfe6fc48" />
+
+<img width="1887" height="1063" alt="put" src="https://github.com/user-attachments/assets/003cb242-ab2a-4707-bfee-6db01b978053" />
+
 
 ## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code.
