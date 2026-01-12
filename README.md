@@ -122,11 +122,3 @@ http://localhost:8080/h2-console
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code.
 
 ---
-
-If you want, I can:
-- Add a ready-to-use .gitignore,
-- Create a CONTRIBUTING.md,
-- Add example Postman collection or GitHub Actions CI workflow,
-- Or adapt this README to include badges and more detailed examples.
-
-Which would you like me to add before you upload?
